@@ -1,0 +1,35 @@
+{
+    "name": "@coframe/coframe-ai-test",
+    "version": "0.0.13",
+    "description": "Coframe optimizes your website using generative AI to deliver maximum impact to your audience and allow your site to improve itself as you sleep. Learn more at coframe.ai.",
+    "author": "Coframe",
+    "main": "index.js",
+    "keywords": [
+      "coframe",
+      "optimization",
+      "AI",
+      "artificial intelligence",
+      "generative AI",
+      "website optimization",
+      "conversion rate",
+      "A/B testing",
+      "personalization",
+      "content optimization",
+      "copy optimization"
+    ],
+    "directories": {
+      "lib": "lib",
+      "test": "tests"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Coframe/coframe-public.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Coframe/coframe-public/issues"
+    },
+    "homepage": "https://coframe.ai",
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
