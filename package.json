@@ -1,35 +1,30 @@
 {
-    "name": "coframe-react",
-    "version": "0.0.18",
+    "name": "@coframe/coframe-react",
+    "version": "0.0.20",
     "description": "Coframe optimizes your website using generative AI to deliver maximum impact to your audience and allow your site to improve itself as you sleep. Learn more at coframe.ai.",
     "author": "Coframe",
     "main": "index.js",
     "keywords": [
-      "coframe",
-      "optimization",
-      "AI",
-      "artificial intelligence",
-      "generative AI",
-      "website optimization",
-      "conversion rate",
-      "A/B testing",
-      "personalization",
-      "content optimization",
-      "copy optimization"
+        "coframe",
+        "optimization",
+        "AI",
+        "artificial intelligence",
+        "generative AI",
+        "website optimization",
+        "conversion rate",
+        "A/B testing",
+        "personalization",
+        "content optimization",
+        "copy optimization"
     ],
-    "directories": {
-      "lib": "lib",
-      "test": "tests"
-    },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Coframe/coframe-public.git"
+        "type": "git",
+        "url": "git+https://github.com/Coframe/coframe-public.git"
     },
     "bugs": {
-      "url": "https://github.com/Coframe/coframe-public/issues"
+        "url": "https://github.com/Coframe/coframe-public/issues"
     },
     "homepage": "https://coframe.ai",
     "dependencies": {},
     "devDependencies": {}
-  }
-  
+}
