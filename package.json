@@ -1,6 +1,6 @@
 {
-    "name": "@coframe/coframe-ai-test",
-    "version": "0.0.13",
+    "name": "coframe-react",
+    "version": "0.0.18",
     "description": "Coframe optimizes your website using generative AI to deliver maximum impact to your audience and allow your site to improve itself as you sleep. Learn more at coframe.ai.",
     "author": "Coframe",
     "main": "index.js",
