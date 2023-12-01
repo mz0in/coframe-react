@@ -19,10 +19,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Coframe/coframe-public.git"
+        "url": "git+https://github.com/Coframe/coframe-react.git"
     },
     "bugs": {
-        "url": "https://github.com/Coframe/coframe-public/issues"
+        "url": "https://github.com/Coframe/coframe-react/issues"
     },
     "homepage": "https://coframe.ai",
     "dependencies": {},
